@@ -1,0 +1,7 @@
+a = int(input("enter a digit:"))
+b = int(input("enter a digit:"))
+c = str(input("enter a string:"))
+d = float(input("enter a float digit:"))
+g = a + b + d
+print(c)
+print(g)
